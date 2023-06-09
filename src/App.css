@@ -10,12 +10,14 @@
 h1 {
   color: rgb(203, 203, 243);
   font-size: 4rem;
+  font-weight: bolder;
 }
 
 h3 {
   color: white;
   font-size: 3rem;
   margin-top: -10px;
+  transition: all 0.1s ease-in-out
 }
 
 .center {

@@ -41,7 +41,7 @@ function resetTimer() {
 }
   return (
     <div className="App">
-      <h1>Stopwatch</h1>
+    <h1>Stopwatch</h1>
     <h3>Timer: <span id="timer">00:00:00</span></h3>
     <div class="center">
         <button onClick={startTimer}>Start</button>
